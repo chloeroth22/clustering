@@ -398,7 +398,7 @@ plt.show()
 
 # Running the fit and predict functions at the same time.
 # We can do this since we don't have target data.
-prediction = KMeans(n_clusters=6).fit_predict(model_df.values)
+prediction = KMeans(n_clusters=8).fit_predict(model_df.values)
 
 # Add the predicted values back to the model DataFrame
 model_df['clusters'] = prediction

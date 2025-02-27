@@ -24,7 +24,7 @@ In order to help determine the number of clusters I wanted to use in my K means 
   alt="RGB" 
  width="90%">
 <img 
-  src="img/clusters_boulder_8.png" 
+  src="img/clustering_boulder_8.png" 
   alt="RGB" 
   width="75%">
   

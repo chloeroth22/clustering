@@ -3,7 +3,7 @@
 For this assignment we downloaded the Water Boundary Dataset for region 8 located in Mississippi (specifically watershed 080902030506). This watershed covers part of New Orleans and is near the Mississippi Delta. This is a good area to practice land classification since deltas provide a diverse spread of land cover. The Mississippi Delta includes uplands, the Gulf of Mexico, forests, mash, beaches, and urban areas. Please note that I was unable to figure out how to load in satellite imagery under my watershed boundary so I used OpenStreetMap (OSM)
 
 <img 
-  src="img/boundary.png" 
+  src="img/boundary_boulder.png" 
   alt="Site Map" 
   width="50%">
   
@@ -13,7 +13,7 @@ National Wildlife Federation. (n.d.). Mississippi River Delta. National Wildlife
 ### SILHOUETTE AND ELBOW PLOTS
 
 <img 
-  src="img/Figure_1.png" 
+  src="img/silhouette_elbow.png" 
   alt="Silhouette and Elbow" 
   style="max-width:100%; height:auto; display:block; margin-left:auto; margin-right:auto;">
 
@@ -21,11 +21,11 @@ In order to help determine the number of clusters I wanted to use in my K means 
 
 ### RGB AND CLUSTER PLOTS
 <img 
-  src="img/rgb.png" 
+  src="img/rgb_boulder.png" 
   alt="RGB" 
  width="90%">
 <img 
-  src="img/clusters.png" 
+  src="img/clusters_boulder.png" 
   alt="RGB" 
   width="75%">
   
